@@ -1,2 +1,3 @@
 # gitsong
-music with git
+
+Git にプロジェクト打ち込んどくから誰か曲作ってくれ
